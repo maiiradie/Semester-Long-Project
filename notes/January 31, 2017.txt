@@ -1,0 +1,70 @@
+HYPERTEXT TRANSFER PROTOCOL 
+Application layer communications protocol used to access resources (hypertext/hypermedia) on the WWW 
+Invented by Tim Berners-Lee 
+ 
+Jointly developed by the W3C and the IETF 
+Standard way of communicating 
+Version history: 
+HTTP 0.9 - connect -> msg request -> response -> service -> disconnect 
+HTTP 1.0 (RFC 1945, May 1996) 
+HTTP 1.1 (RFC 2068 Jan 1997, RFC 7230- 7235 June 2014) 
+Barely stable 
+Late 2000s -> mobile devices 
+HTTP 2.0 (RFC 7540 May 2015) 
+SPDY Protocol -> HTTP iis 
+Background compatible with HTTP 1.1 
+If an application developers, changes in HTTP 2.0 are mostly not relevant 
+ 
+ 
+HTTP FUNDAMENTALS 
+Runs on top of TCP/IP using TCP port 80 by default, or TCP port 443 for HTTPS (HTTP over SSL/TLS) 
+IP addresses gives unique identification, but not enough 
+Cant just use IP address alone 
+Idea of port comes in 
+Port: 0-64k 
+IP + port = socket 
+IANA 
+Ex: apartment address, port = apartment number 
+---Based on a client-server(FTP, peer to peer, torrent), architecture 
+Clients a.k.a. user agent (UA) 
+Web browsers (any app that communicates with HTTP with HTTP protocol), web crawlers/spiders, other end user tools and apps 
+ 
+HTTPS 
+Digital certificate 
+Transmits in encrypted form 
+ 
+ 
+;; HTTP password is sent as plain text 
+;; "HTTP everywhere" 
+Letsencrypt.org - renew every 3 months 
+;; http server – can be anything as long as it serves clients 
+ 
+Servers 
+Origin servers – physically there 
+Proxy servers (authentication), gateways, tunnels (blind relay between 2 points, encryption) 
+Computer -> proxy server -> gateway –> origin server ===== request response chain 
+Can be dual route 
+ 
+ 
+HTTP uses a request-response standard protocol 
+The client sends an HTTP request message to the server 
+The server processes the request and replies with an HTTP response message 
+Server never initiates 
+Pull protocol = " do you have something new for me" 
+Push protocol (ex. Server can volunteer) 
+Polling – check with server every minute 
+ 
+HTTP is a stateless (serve&forget, simple protocol; should be stateful. Ex: Zalora)communications protocol 
+Servers do not keep information about clients in between requests 
+ 
+HTTP provides support for other functionalities, such as: 
+Cache control – no need to go to origin server; ex: retrieving CSS file all over again 
+Content media type (MIME) specification (text/html; image/png) 
+Language and character set specification – ASCII, Unicode, UTF-8 
+Content/transfer codings 
+Content negotiation 
+ 
+ 
+ASSIGNMENT: 
+Info.cern.ch  
+Web.archive.org - view state of website 

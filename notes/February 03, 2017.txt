@@ -1,0 +1,23 @@
+< c o n t > 
+Content negotiation 
+Client-server protocol negotiation 
+Persistent connections 
+Request pipelining 
+Authentication/authorization 
+Etc 
+ 
+ 
+HTTP RESOURCE ADDRESSING 
+HTTP resources are identified using URIS (RFC 3986) or more, specifically, HTTP URLs 
+Scheme (http or https) 
+Authority  
+User information/authentication credentials (depreciated) 
+Host 
+Domain name (resolved to an IP address using DNS) of the server where the resource resides (or will the crewed) 
+Port number 
+Path to resource (resolved relative to the document root on the server) 
+May refer to a static of dynamic resource 
+Query 
+Typically provided as key = value pairs, to ampersand (&) separators between key/value pairs 
+May be URL-encoded 
+Fragment identifier 

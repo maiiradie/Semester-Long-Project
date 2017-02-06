@@ -1,0 +1,105 @@
+INTERNET 
+- internetwork(ing) 
+- inter: outside the boundary 
+- global network of networks 
+- network: connects two computers 
+- interconnecting computers 
+ 
+HARDWARE CONNECTING: 
+nodes 
+usually a computer 
+laptop, cellphone, etc 
+IoT - Internet of Things 
+next big things 
+connects all things, ref, tv, etc 
+interconnection technology 
+wired - fiber 
+wireless 
+ 
+ 
+SOFTWARE 
+protocol: rules 
+ 
+ 
+common wire 
+ 
+serial connection 
+one wire 
+as a stream of bits 
+one bit at a time 
+ex "agree on rate" 
+interference 
+ 
+example: sending one big file 
+ 
+becomes  
+ 
+ 
+ 
+packets  
+-can come and arrive later 
+-sequence members 
+-destination source address 
+-sequence numbers 
+ 
+internet.society.org 
+history of the future 
+ 
+ 
+PROTOCOLS:  
+Where is the node? 
+IP address 
+192.168.#.# 
+IPv4 - 4 billion devices 
+IPV6  
+ 
+_________________________ 
+1969 - The internet was born. (48 years old) 
+_________________________ 
+was originally for DARPA
+circuit-switch network - voice calls 
+if computer 
+not necessary / not scalable 
+S&F - Store &F Forward 
+pocket switching 
+APRANET - 4 computers 
+ 
+ 
+1972 
+email was the killer application 
+ 
+World Wide Web 
+"it's just an app" 
+started WAIS (Wide Area Information Service) 
+entire web of documents 
+computer - web server / program 
+host web resources 
+domain name: server.org/(hierarchy) 
+listens to requests 
+ 
+Gopher (protocol) 
+precursors of Google, Bing 
+like WAIS, but with hierarchy 
+burrowing deeper and deeper 
+still no link for one document 
+ 
+Usenet 
+like online discussions / bulletin board 
+Reddit 
+Stack Overflow 
+ 
+1989 - Web was established 
+Sir Time Berners-Lee ( dubbed as a knight) 
+scientist/mathematician 
+so web was mostly textual and numeric 
+wasn't originally for the public 
+CSS came much later 
+semantic web 
+works at CERN 
+created three different technologies 
+HTTP 
+HTML  
+URL ( 
+addressing mechanism 
+web server, web client, web browser (uses standard  
+protocol (HTTP), contacts server) 

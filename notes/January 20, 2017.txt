@@ -1,0 +1,21 @@
+ASSIGNMENT: READ ON THE FOLLOWING TOPICS 
+The Internet and the World Wide Web 
+WWW Technologies 
+HTML, CSS 
+Client-side scripting 
+Server-Side Scripting 
+Web Servers 
+Web Clients 
+Web Applications 
+HTTP (RFC (Request for Comments) 2616, RFCs 7230-7257) 
+ 
+ 
+DOWNLOAD, INSTALL AND CONFIGRE A LOCAL WEB SERVER 
+DOWNLOAD, INSTAL AND EXPERIMENT WITH FIDDLER (web debugging proxy // peek into browser -- server) 
+ 
+Read sources:
+iso.linux.org 
+w3c 
+ietf.org 
+understand basic architecture from client to server, vice versa 
+ 
