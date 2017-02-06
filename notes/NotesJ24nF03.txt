@@ -1,0 +1,46 @@
+January 31
+WWW (World wide web) - Tim Berners Lee invented 1989
+	-Founded Wold Wide Consortium also known as W3C
+	-http
+	- invented web while at CERN
+
+w3C -  forum for technical development of the web 	
+Link that will help us: https://www.w3.org/People/Berners-Lee/
+
+*HTTP runs on top of TCP/IP using TPC Port 80, by default.
+*IP + PORT number = socket
+
+User Agents = browsers, end users
+
+example of crawler or spider (googlebot)
+
+Communication of (ports"not so sure kung ports talaga pag kaka rinig ko") Request - response - chain
+
+Feb 3
+
+	*HTTP
+	-Language and Characterset specification
+	-Content/ Transfer coding
+	-Cache control
+	- Client Negotiation
+	- Client Server Protocol negotiation
+	- Persistent Connections
+	- Authentication / Authorization
+
+Faster way to communicate and to transfer data = Request pipe-linning
+
+URL ( Uniform Resource Locator)
+	-scheme (http or htpps)
+	-File:// -example of file url
+
+*host
+	-domain name(resolved to an IP adress using DNS)
+*port number
+*path
+	-static resource
+	-dynamic resource
+*Query - URL
+
+*fragment - identifier is  indentified by #
+
+*Required by URL: Scheme
