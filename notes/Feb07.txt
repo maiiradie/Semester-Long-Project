@@ -1,0 +1,6 @@
+The Internet is a system of computers that are interconnected worldwide. The Internet utilizes phonelines, cables, satellites, and wireless networks for devices to be connected to each other. The Internet that we enjoy today as a medium for entertainment was not the purpose during its creation. Started as a project for the easy communication in the fields of scientific research and military intelligence, it was developed by the Defense Advanced Research Projects Agency of the Department of Defense in the U.S. which became known as the ARPANET. The ARPANET was a network that spearheaded the use of packet switching rather than circuit switching and was the first one to use the TCP/IP suite. When the Americans first connected through the ARPANET from different locations across the country, as time passed by, two institutions outside the U.S. successfully connected to the ARPANET which gave birth to the Internet. 
+References:
+http://www.livescience.com/20727-internet-history.html\
+https://www.digitalunite.com/guides/using-internet-0/connecting-internet/what-internet
+https://en.wikipedia.org/wiki/ARPANET#Creation
+http://www.internetsociety.org/internet/what-internet/history-internet/brief-history-internet 
