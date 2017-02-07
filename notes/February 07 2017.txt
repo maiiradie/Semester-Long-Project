@@ -1,0 +1,21 @@
+link rot - it is "similar" to code rot but the link rot is base on web for example 
+a referenced site in your page become then when you access it the page is unavailble, 
+it means that you have a site that is refernced in your page that is not working.
+
+Status code: one of the most recognise example of this is "404 page not found".
+
+1xx - informational
+2xx - success
+3xx - Redirection
+4xx - Client error
+5xx - server error 
+
+HTTP Standard Methods:
+* GET - it is a method in http where retreive the information in a request of a client from the server 
+* HEAD - Head is similar to Get in some way, but the difference is the server dont send a message body to the client
+* POST - 
+* PUT
+* DELETE
+* OPTION CONNECT
+
+---- will continue later ----
